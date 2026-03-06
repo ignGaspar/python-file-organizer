@@ -30,8 +30,7 @@ The organizer automatically classifies files into the following categories:
 ### 🚀 Using the Executable
 
 #### Download
-1. Go to the `dist/` folder of the project
-2. Copy the `Organizador de Archivos.exe` file
+1. Download the latest version from releases
 
 #### Installation
 No installation required. Just run the `.exe` file directly.
